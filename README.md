@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Harishan15
-- 👀 I’m interested in UI/UX Designing & Developing Frontend Components
-- 🌱 I’m currently learning Node JS, MongoDB & Devops Concepts.
-- 💞️ I’m looking to collaborate on React JS based application (Loved to work on UI/UX Improvements)
-- 📫 Reach me on harishan1507@gmail.com or https://www.instagram.com/hxrishxn/ on instagram.
+- 👀 I’m passionate about crafting captivating UI/UX designs & developing frontend components
+- 🌱 Currently diving into Flutter, Firebase Devops Concepts.
+- 💞️ Seeking collaborations on React JS applications, especially keen on enhancing UI/UX experiences!
+- 📫 Connect with me at harishan1507@gmail.com or find me on Instagram: https://www.instagram.com/hxrishxn/.
 
 <!---
 Harishan15/Harishan15 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
